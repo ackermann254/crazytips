@@ -1,0 +1,43 @@
+p {
+
+    font: size 3px;
+
+    color: #02020add;
+
+}
+body {
+    margin:1.5rem
+    min-height: 100vh;
+    font-size: 22px;
+    background-color: rgb(197, 218, 218);
+    color:rgba(25, 36, 111, 0.839)
+    padding:1.5rems
+}
+
+    h1{
+        margin:1.5rem ;
+        border: 10px double rgb(22, 17, 48);
+        color:rgb(8, 46, 135);
+        width: 50%;;
+        padding: 0.5em;
+        outline: solid purple;
+    }
+    p {
+        
+        line-height: 1.5;
+
+    }
+    main{
+        text-transform: capitalize;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+
+    
+    
+}
+
+#contact{
+
+    font-style: italic;
+}
