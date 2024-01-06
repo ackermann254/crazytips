@@ -9,7 +9,7 @@ body {
     margin:1.5rem
     min-height: 100vh;
     font-size: 22px;
-    background-color: rgb(197, 218, 218);
+    background-color: beige;
     color:rgba(25, 36, 111, 0.839)
     padding:1.5rems
 }
@@ -32,6 +32,16 @@ body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     }
+    ul{
+        list-style-type: square;
+        list-style-position: inside;
+        color: beige;
+        list-style-image: ;
+    }
+   ul::marker{
+
+        color 
+    }
 
     
     
@@ -40,4 +50,19 @@ body {
 #contact{
 
     font-style: italic;
+}
+a{
+    color
+}
+
+a:visited{
+
+    color: steelblue;
+}
+
+a:hover{
+    color: dodgerblue;
+}
+a:active{
+    color
 }
